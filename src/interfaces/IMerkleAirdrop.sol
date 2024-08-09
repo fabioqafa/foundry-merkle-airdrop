@@ -16,6 +16,7 @@ interface IMerkleAirdrop {
     error MerkleAirdrop__InvalidProof();
     error MerkleAirdrop__InvalidSignature();
     error MerkleAirdrop__AlreadyClaimed();
+    error MerkleAirdrop__ClaimerAlreadyAdded(address claimer);
 
     ///////////////
     // Functions //

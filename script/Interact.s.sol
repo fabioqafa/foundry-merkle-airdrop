@@ -1,5 +1,7 @@
 // SPDX-License-Identifier: MIT
 
+//WARNING!!! This is an old interaction, before the smart contract was modified. It will not work.
+
 pragma solidity ^0.8.24;
 
 import {Script} from "forge-std/Script.sol";
