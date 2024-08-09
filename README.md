@@ -1,5 +1,7 @@
 # Airdrop Smart Contract using Advanced Ethereum Cryptography Techniques
 
+## This is a demo
+
 ## Use of Merkle Trees, EIP712 Signature Standard and ECDSA (Ethereum Ellptic Curve Digital Signature Algorithm)
 
 ### The user can sign a message, and another address can take care of the airdrop, thus the gas is spent by the latter
